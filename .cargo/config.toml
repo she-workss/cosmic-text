@@ -1,0 +1,2 @@
+[patch.crates-io]
+swash = { git = "https://github.com/she-workss/swash.git" }
